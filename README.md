@@ -33,8 +33,8 @@
 
 ### Personal addition
 
-I added a button that toggles between a bright colorscheme and the default 
-colorscheme of the challenge.
+I added a button that toggles between a bright colorscheme and the default colorscheme of the challenge. I thought that it 
+would be interesting and a challange to me as a javascript beginner.
 
 ## My process
 
@@ -43,6 +43,7 @@ colorscheme of the challenge.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Sass(SCSS syntax) - functions, variables and mixins
 
 ## Author
 
