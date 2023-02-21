@@ -34,7 +34,7 @@
 ### Personal addition
 
 I added a button that toggles between a bright colorscheme and the default colorscheme of the challenge. I thought that it 
-would be interesting and a challange to me as a javascript beginner.
+would be interesting and a challenge to me as a javascript beginner.
 
 ## My process
 
