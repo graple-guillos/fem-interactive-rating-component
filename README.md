@@ -1,14 +1,14 @@
 # FRONTEND MENTOR - Interactive Rating Component Solution
 
 # Table of contents
-- [Overview]
-    - [The challenge]
-    - [Screenshots]
-    - [Links]
-    - [Personal addition - light mode]
-- [My process]
-    - [Built with]
-- [Author]
+- Overview
+    - The challenge
+    - Screenshots
+    - Links
+    - Personal addition - light mode
+- My process
+    - Built with
+- Author
 
 ## Overview
 
